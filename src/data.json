@@ -1,0 +1,25 @@
+##armor##
+
+armor_names = ["Plate", "Chain", "Leather", "Padded"]
+
+
+##weapons##
+
+weapon_names = ["Sword", "Axe", "Pike"]
+
+
+##damage_type##
+
+damage_type = ["Radiant", "Poison", "Thunder"]
+
+##armor_class##
+
+armor_class = ["12", "13", "14", "15", "16"]
+
+##resistance##
+
+resistance = ["Slashing", "Pircing", "Radiant"]
+
+##damage##
+
+damage = ["1d4", "1d6", "1d8", "1d10", "1d12"]
